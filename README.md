@@ -1,7 +1,7 @@
 # zip and unzip files
 usage:
 
-1)clone the github repo 'https://github.com/sebasop320/zip.git'
+1)clone the github repo ' git clone https://github.com/sebasop320/zip.git'
 
 2) move the file to somewere you can acces it easy
 
