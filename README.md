@@ -10,3 +10,5 @@ usage:
 6) use 'chmod +x zip_file.sh'
 
 8) finaly use './zip_file.sh'
+
+new updates soon!!
